@@ -1,9 +1,12 @@
 # Game Prototype - Gladiator
 A game prototype exploring the concept of a 'gladiator-style' gameplay loop <br/>
 Note: The repository only contains the original script files. Other asset files like sound and sprites are not included.<br/>
+Note: Sound may be loud and there is no volume slider in the game.
+Note: Game is intended to be played at 800x600 resolution size.
+Note: Player should use Keyboard + Mouse to play the game
 <br/>
 You can try the game via the following link:<br/>
-[link_temporarily_unavailable]<br/>
+http://surl.li/fnxca<br/>
 (Filesize: ~200MB, compressed)<br/>
 <br/>
 This game was a UTB project, it developed by a team of 5 members:<br/>
