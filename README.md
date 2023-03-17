@@ -19,6 +19,12 @@ Gladiator<br/>
 Game genre:<br/>
 Turn-based RPG<br/>
 <br/>
+Platform:<br/>
+Windows PC<br/>
+<br/>
+Engine:<br/>
+Unity Engine<br/>
+<br/>
 Game description:<br/>
 In Gladiator, Player assumes control of a gladiator character named Knight Jocelin. The main gameplay loop consists of: 1) Defeating enemies in the arena to gain gold and experience, 2) Using resources acquired to obtain new gear and become more powerful, and 3) Challenging tougher enemies until the final boss is defeated.<br/>
 <br/>
