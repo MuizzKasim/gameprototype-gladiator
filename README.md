@@ -1,5 +1,6 @@
 # Game Prototype - Gladiator
 A game prototype exploring the concept of a 'gladiator-style' gameplay loop <br/>
+Note: The repository only contains the original script files. Other asset files like sound and sprites are not included.
 <br/>
 You can try the game via the following link:<br/>
 [link_temporarily_unavailable]<br/>
