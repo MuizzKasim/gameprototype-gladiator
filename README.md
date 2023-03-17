@@ -7,7 +7,7 @@ Note: Player should use Keyboard + Mouse to play the game<br/>
 <br/><br/>
 You can try the game via the following link:<br/>
 http://surl.li/foaac<br/>
-(Filesize: ~200MB, compressed)<br/>
+(Filesize: ~37MB, compressed)<br/>
 <br/>
 This game was a UTB project, it developed by a team of 5 members:<br/>
 1. Abdul Muizz Haji Kasim<br/>
